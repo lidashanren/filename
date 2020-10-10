@@ -1,6 +1,6 @@
 import os
 
-DOUBLE_EXTENSIONS = ['tar.gz', 'tar.bz2']
+DOUBLE_EXTENSIONS = ['tar.gz', 'tar.bz2', 'tar.xz']
 
 
 def basename(filename, extension_depth=None):
